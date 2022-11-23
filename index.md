@@ -1,9 +1,9 @@
 Bogo shipda
 
-*italics* **bold**
+**What Is The Blog About:** Stuff, so much *stuff*
 
-## Heading (level 2)
+## Part 1 (The Music)
 
-[link to Google](https://www.google.com)
+[link to The Boys]([https://www.google.com](https://en.wikipedia.org/wiki/BTS))
 
-Paragraphs are separated by blank lines
+So, K-Pop is quite a popular medium consumed by a large portion of people. Almost a decade ago the gnere took the music industry like a storm.
